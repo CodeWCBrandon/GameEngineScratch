@@ -12,6 +12,15 @@ We’re not using Unity. We’re not using Unreal. We’re going deep — buildi
 - 🔧 Asset pipeline and editor tools (in future)
 - 🎮 Real-time game simulation and logic systems
 
+## 🚧 Status
+
+> ⚠️ Work in progress. Expect rapid changes, experiments, and breaking builds.
+
+Current progress:
+- [ ] Basic Engine
+
+---
+
 ## 🔧 Tech Stack
 
 - **Language:** C++
